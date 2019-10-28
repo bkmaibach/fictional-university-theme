@@ -50,7 +50,7 @@
     
 
     <div class="generic-content">
-      <?php the_content(); ?>
+      <?php get_search_form(); ?>
     </div>
 
   </div>
